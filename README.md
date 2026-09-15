@@ -15,6 +15,7 @@ Tenho interesse especial em:
 - Marketing Analytics;
 - Planejamento e Estratégia;
 - Dados e tomada de decisão;
+- Inteligência Artificial;
 
 ## Tecnologias e ferramentas
 
