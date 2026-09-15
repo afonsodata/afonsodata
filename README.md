@@ -23,6 +23,7 @@ Tenho interesse especial em:
 - Python
 - Pandas
 - Matplotlib
+- IA
 - SQL
 - Power BI
 - Excel
